@@ -1,0 +1,3 @@
+project = stopwatch
+version = 11.10
+template = ubuntu-application

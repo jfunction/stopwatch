@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=Stopwatch
+_Comment=Stopwatch application
+Categories=GNOME;Utility;
+Exec=stopwatch
+Icon=stopwatch
+Terminal=false
+Type=Application
